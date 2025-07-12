@@ -48,7 +48,13 @@ Open multiple browser tabs/windows.
 Go to http://localhost:8080 in each.
 Enter different usernames but the same room name.
 Start chatting — messages sync instantly across tabs.
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/410bae8a-6666-4aed-b380-a52e97702065" />
+
+<img width="440" height="272" alt="image" src="https://github.com/user-attachments/assets/43de6f8c-3f5f-4ca7-b2c2-3408bf3b93fe" />
+<img width="440" height="272" alt="image" src="https://github.com/user-attachments/assets/735ca4c8-f360-4c15-b888-b5a455c5766a" />
+<img width="440" height="272" alt="image" src="https://github.com/user-attachments/assets/496a9045-d9a5-409c-9f90-75f6d0d0366e" />
+
+
+
 
 
 🛠️ Technologies
