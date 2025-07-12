@@ -4,6 +4,9 @@ A real-time chat application built with **Spring Boot**, **WebSocket**, and **Ap
 
 💬 Real-Time Chat Application
 A scalable, real-time chat application built with Spring Boot, WebSocket, and Apache Kafka for efficient message distribution.
+#### src/main/resources/
+### ├── application.properties # Configuration file
+### └── templates/index.html # Chat UI
 
 🚀 Getting Started
 Prerequisites
@@ -70,7 +73,7 @@ Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 
 📬 Contact
-Reach out to @youknowmeya on telegram.
+Reach out to @Isthifa._ on instagram if any doubts
 
 
 
